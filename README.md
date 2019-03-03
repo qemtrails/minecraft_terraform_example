@@ -1,2 +1,2 @@
 # minecraft_terraform_example
-Minecraft aws node
+Terraform script to provision aws t2.micro instance to test a minecraft server deployment.
